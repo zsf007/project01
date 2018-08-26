@@ -33,6 +33,5 @@ def info(object,collapse=0,spacing=5):
 
 info(request,1)
 
-
 #s = "123"
 #info(s,1,10)
